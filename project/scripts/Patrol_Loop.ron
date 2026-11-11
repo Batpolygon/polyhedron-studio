@@ -1,0 +1,28 @@
+(
+    name: "Patrol Loop",
+    enabled: true,
+    description: "Repeats the Patrol action and emits a checkpoint after each cycle.",
+    on_start: [
+        Repeat(
+            times: 4,
+            body: [
+                CallAction(
+                    action: "Patrol",
+                ),
+                Wait(
+                    seconds: 0.5,
+                ),
+                Log(
+                    message: "patrol cycle",
+                ),
+            ],
+        ),
+    ],
+    on_tick: [],
+    on_interact: [],
+    on_hit: [],
+    on_signal: [],
+    signal_port: "",
+    on_energy: [],
+    bound: false,
+)

@@ -1,0 +1,638 @@
+(
+    name: "Obelisk",
+    size: (7, 15, 7),
+    cells: [
+        (
+            pos: (0, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 0),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 1),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 2),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 3),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 4),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 5),
+            block: "slab_stone",
+        ),
+        (
+            pos: (0, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (2, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (3, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (4, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (5, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (6, 0, 6),
+            block: "slab_stone",
+        ),
+        (
+            pos: (1, 1, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 1, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (3, 1, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (4, 1, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (5, 1, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (1, 1, 2),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 1, 2),
+            block: "temple_brick",
+        ),
+        (
+            pos: (3, 1, 2),
+            block: "temple_brick",
+        ),
+        (
+            pos: (4, 1, 2),
+            block: "temple_brick",
+        ),
+        (
+            pos: (5, 1, 2),
+            block: "temple_brick",
+        ),
+        (
+            pos: (1, 1, 3),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 1, 3),
+            block: "temple_brick",
+        ),
+        (
+            pos: (3, 1, 3),
+            block: "temple_brick",
+        ),
+        (
+            pos: (4, 1, 3),
+            block: "temple_brick",
+        ),
+        (
+            pos: (5, 1, 3),
+            block: "temple_brick",
+        ),
+        (
+            pos: (1, 1, 4),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 1, 4),
+            block: "temple_brick",
+        ),
+        (
+            pos: (3, 1, 4),
+            block: "temple_brick",
+        ),
+        (
+            pos: (4, 1, 4),
+            block: "temple_brick",
+        ),
+        (
+            pos: (5, 1, 4),
+            block: "temple_brick",
+        ),
+        (
+            pos: (1, 1, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 1, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (3, 1, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (4, 1, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (5, 1, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 2, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 2, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 2, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 2, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 2, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 2, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 2, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 2, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 2, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 3, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 3, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 3, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 3, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 3, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 3, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 3, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 3, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 3, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 3, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 3, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 4, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 4, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 4, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 4, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 4, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 4, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 4, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 4, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 4, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 5, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 5, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 5, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 5, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 5, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 5, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 5, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 5, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 5, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 5, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 5, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 6, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 6, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 6, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 6, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 6, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 6, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 6, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 6, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 6, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 7, 1),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 7, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 7, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 7, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 7, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 7, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 7, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 7, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 7, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 7, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 7, 5),
+            block: "temple_brick",
+        ),
+        (
+            pos: (2, 8, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 8, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 8, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 8, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 8, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 8, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 8, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 8, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 8, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 9, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 9, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 9, 2),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 9, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 9, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 9, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (2, 9, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 9, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (4, 9, 4),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 10, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 11, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 12, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 13, 3),
+            block: "sandstone",
+        ),
+        (
+            pos: (3, 14, 3),
+            block: "sphere_gold",
+        ),
+    ],
+    anchors: [
+        (0, 0, 0),
+        (6, 0, 6),
+    ],
+)

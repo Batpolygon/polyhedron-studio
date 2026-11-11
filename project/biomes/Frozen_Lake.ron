@@ -1,0 +1,49 @@
+(
+    name: "Frozen Lake",
+    temperature: -0.8,
+    humidity: 0.7,
+    base_height: 2.0,
+    height_scale: 3.0,
+    roughness: 0.3,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "snow",
+    subsurface_block: "ice",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: FrozenLake,
+    sky_color: (0.76, 0.84, 0.94),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Igloo",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "snow",
+            ],
+        ),
+        (
+            structure: "Frozen Wreck",
+            chance_per_chunk: 0.02,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "snow",
+                "ice",
+            ],
+        ),
+        (
+            structure: "Ice Shard",
+            chance_per_chunk: 0.2,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "snow",
+            ],
+        ),
+    ],
+    beaches: true,
+)

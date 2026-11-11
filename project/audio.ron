@@ -1,0 +1,139 @@
+(
+    sounds: [
+        (
+            name: "bell",
+            layers: [
+                (
+                    wave: Sine,
+                    from_hz: 660.0,
+                    to_hz: 660.0,
+                    attack: 0.005,
+                    decay: 0.9,
+                    gain: 0.6,
+                    lowpass: 0.0,
+                    vibrato_hz: 0.0,
+                    vibrato_depth: 0.0,
+                ),
+                (
+                    wave: Sine,
+                    from_hz: 1980.0,
+                    to_hz: 1980.0,
+                    attack: 0.005,
+                    decay: 0.4,
+                    gain: 0.2,
+                    lowpass: 0.0,
+                    vibrato_hz: 0.0,
+                    vibrato_depth: 0.0,
+                ),
+            ],
+        ),
+        (
+            name: "pad",
+            layers: [
+                (
+                    wave: Triangle,
+                    from_hz: 220.0,
+                    to_hz: 220.0,
+                    attack: 0.15,
+                    decay: 1.2,
+                    gain: 0.5,
+                    lowpass: 900.0,
+                    vibrato_hz: 4.0,
+                    vibrato_depth: 2.0,
+                ),
+            ],
+        ),
+        (
+            name: "kick",
+            layers: [
+                (
+                    wave: Sine,
+                    from_hz: 150.0,
+                    to_hz: 45.0,
+                    attack: 0.001,
+                    decay: 0.22,
+                    gain: 1.0,
+                    lowpass: 0.0,
+                    vibrato_hz: 0.0,
+                    vibrato_depth: 0.0,
+                ),
+            ],
+        ),
+        (
+            name: "hat",
+            layers: [
+                (
+                    wave: Noise,
+                    from_hz: 440.0,
+                    to_hz: 440.0,
+                    attack: 0.001,
+                    decay: 0.05,
+                    gain: 0.3,
+                    lowpass: 0.0,
+                    vibrato_hz: 0.0,
+                    vibrato_depth: 0.0,
+                ),
+            ],
+        ),
+    ],
+    songs: [
+        (
+            name: "Calm fields",
+            enabled: false,
+            bpm: 100.0,
+            steps: 32,
+            biomes: [],
+            time: Any,
+            tracks: [
+                (
+                    sound: "pad",
+                    volume: 0.5,
+                    notes: [
+                        (
+                            step: 0,
+                            semitone: 0,
+                        ),
+                        (
+                            step: 8,
+                            semitone: 3,
+                        ),
+                        (
+                            step: 16,
+                            semitone: 5,
+                        ),
+                        (
+                            step: 24,
+                            semitone: 3,
+                        ),
+                    ],
+                ),
+                (
+                    sound: "bell",
+                    volume: 0.35,
+                    notes: [
+                        (
+                            step: 2,
+                            semitone: 0,
+                        ),
+                        (
+                            step: 6,
+                            semitone: 7,
+                        ),
+                        (
+                            step: 12,
+                            semitone: 3,
+                        ),
+                        (
+                            step: 20,
+                            semitone: 5,
+                        ),
+                        (
+                            step: 28,
+                            semitone: 7,
+                        ),
+                    ],
+                ),
+            ],
+        ),
+    ],
+)

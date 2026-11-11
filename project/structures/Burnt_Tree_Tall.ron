@@ -1,0 +1,153 @@
+(
+    name: "Burnt Tree Tall",
+    size: (9, 15, 9),
+    cells: [
+        (
+            pos: (4, 0, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 0, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 0, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 0, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 1, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 2, 4),
+            block: "lava",
+        ),
+        (
+            pos: (4, 3, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 4, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 5, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 6, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 7, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 8, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 9, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 9, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 9, 5),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 9, 5),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 10, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 10, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 10, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 10, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 10, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (6, 10, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (7, 10, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 10, 6),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 10, 6),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 10, 7),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 11, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (5, 11, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (7, 11, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (8, 11, 4),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 11, 5),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 12, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 12, 6),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 12, 7),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 13, 7),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 13, 8),
+            block: "burnt_log",
+        ),
+    ],
+    anchors: [
+        (4, 0, 4),
+    ],
+)

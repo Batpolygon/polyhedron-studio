@@ -1,0 +1,48 @@
+(
+    name: "Mud",
+    temperature: 0.4,
+    humidity: 0.95,
+    base_height: 7.0,
+    height_scale: 2.5,
+    roughness: 0.3,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "mud",
+    subsurface_block: "mud",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: Lake,
+    sky_color: (0.48, 0.56, 0.58),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Stilt Hut",
+            chance_per_chunk: 0.04,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "mud",
+            ],
+        ),
+        (
+            structure: "Old Stump",
+            chance_per_chunk: 0.3,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "mud",
+            ],
+        ),
+        (
+            structure: "Bone Pile",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "mud",
+            ],
+        ),
+    ],
+    beaches: true,
+)

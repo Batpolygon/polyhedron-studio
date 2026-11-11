@@ -1,0 +1,30 @@
+(
+    name: "Signal Lamp",
+    enabled: true,
+    description: "Block logic: forwards interactions as a cable signal and reacts to power.",
+    on_start: [],
+    on_tick: [],
+    on_interact: [
+        PlaySound(
+            sound: "ui_beep",
+        ),
+        SetSignal(
+            port: "out",
+            value: 1.0,
+        ),
+    ],
+    on_hit: [],
+    on_signal: [
+        SpawnParticle(
+            kind: "spark",
+            count: 6,
+        ),
+    ],
+    signal_port: "",
+    on_energy: [
+        Log(
+            message: "Lamp power changed",
+        ),
+    ],
+    bound: true,
+)

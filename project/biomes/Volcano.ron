@@ -1,0 +1,39 @@
+(
+    name: "Volcano",
+    temperature: 0.95,
+    humidity: -0.9,
+    base_height: 16.0,
+    height_scale: 14.0,
+    roughness: 0.55,
+    octaves: 4,
+    peaks: 0.3,
+    continentalness: 0.5,
+    surface_block: "basalt",
+    subsurface_block: "basalt",
+    stone_block: "basalt",
+    subsurface_depth: 3,
+    feature: Volcano,
+    sky_color: (0.4, 0.3, 0.3),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Basalt Vent",
+            chance_per_chunk: 0.2,
+            attempts: 1,
+            max_slope: 4,
+            ground: [
+                "basalt",
+            ],
+        ),
+        (
+            structure: "Basalt Columns",
+            chance_per_chunk: 0.16,
+            attempts: 1,
+            max_slope: 5,
+            ground: [
+                "basalt",
+            ],
+        ),
+    ],
+    beaches: false,
+)

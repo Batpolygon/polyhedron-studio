@@ -1,0 +1,49 @@
+(
+    name: "Burnt Forest",
+    temperature: 0.7,
+    humidity: 0.12,
+    base_height: 11.0,
+    height_scale: 4.0,
+    roughness: 0.4,
+    octaves: 4,
+    peaks: 0.12,
+    continentalness: 0.5,
+    surface_block: "burnt_ground",
+    subsurface_block: "dirt",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.46, 0.37999997, 0.36),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Burnt Tree",
+            chance_per_chunk: 0.85,
+            attempts: 3,
+            max_slope: 3,
+            ground: [
+                "burnt_ground",
+            ],
+            variants: [
+                (
+                    structure: "Burnt Tree",
+                    weight: 2.0,
+                ),
+                (
+                    structure: "Burnt Tree Tall",
+                    weight: 1.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Ember Stump",
+            chance_per_chunk: 0.4,
+            attempts: 2,
+            max_slope: 2,
+            ground: [
+                "burnt_ground",
+            ],
+        ),
+    ],
+    beaches: true,
+)

@@ -1,0 +1,621 @@
+(
+    name: "Alien Spire",
+    size: (7, 16, 7),
+    cells: [
+        (
+            pos: (2, 0, 1),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 0, 1),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 0, 1),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (1, 0, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 0, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 0, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 0, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 0, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (1, 0, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 0, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 0, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 0, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 0, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (1, 0, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 0, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 0, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 0, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 0, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 0, 5),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 0, 5),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 0, 5),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 1, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 1, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 1, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 1, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 1, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 1, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 1, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 1, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 1, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 1, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 1, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 2, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 2, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 2, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 2, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 2, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 2, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 2, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 2, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 2, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 2, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 2, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 3, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 3, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 3, 1),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 3, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 3, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 3, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 3, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 3, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 3, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 3, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 3, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 3, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 3, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 3, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 3, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 3, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 3, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (6, 3, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 3, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 3, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 3, 5),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 4, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 4, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 4, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 4, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 4, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 4, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 4, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 4, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (5, 4, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 5, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 5, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 5, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 5, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 5, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 5, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 5, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 6, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 6, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 6, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 6, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (5, 6, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 6, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 6, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 7, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 7, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 7, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 7, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 7, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 7, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 7, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 8, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 8, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 8, 2),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 8, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 8, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 8, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 8, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (3, 8, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (4, 8, 4),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 9, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 9, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 9, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 9, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 9, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (4, 9, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 9, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 9, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 10, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 10, 2),
+            block: "alien_crust",
+        ),
+        (
+            pos: (1, 10, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 10, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 10, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 10, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 10, 4),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 11, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 12, 3),
+            block: "outer_magenta",
+        ),
+        (
+            pos: (2, 13, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (2, 14, 3),
+            block: "alien_crust",
+        ),
+        (
+            pos: (3, 15, 3),
+            block: "astral_ore",
+        ),
+    ],
+    anchors: [
+        (3, 0, 3),
+    ],
+)

@@ -1,0 +1,101 @@
+(
+    mouse_sensitivity: 1.0,
+    invert_y: false,
+    fov_degrees: 70.0,
+    view_distance: 6,
+    show_fps: true,
+    head_bob: true,
+    show_main_menu: true,
+    master_volume: 0.8,
+    sfx_volume: 0.9,
+    box_colors: {},
+    show_player_preview: true,
+    show_minimap: true,
+    bindings: [
+        (
+            action: Some(Forward),
+            primary: Some("KeyW"),
+            secondary: Some("KeyZ"),
+        ),
+        (
+            action: Some(Back),
+            primary: Some("KeyS"),
+            secondary: Some("ArrowDown"),
+        ),
+        (
+            action: Some(Left),
+            primary: Some("KeyA"),
+            secondary: Some("KeyQ"),
+        ),
+        (
+            action: Some(Right),
+            primary: Some("KeyD"),
+            secondary: Some("ArrowRight"),
+        ),
+        (
+            action: Some(Jump),
+            primary: Some("Space"),
+            secondary: None,
+        ),
+        (
+            action: Some(Sprint),
+            primary: Some("ShiftLeft"),
+            secondary: Some("ShiftRight"),
+        ),
+        (
+            action: Some(Dash),
+            primary: Some("ControlLeft"),
+            secondary: Some("AltLeft"),
+        ),
+        (
+            action: Some(Attack),
+            primary: Some("MouseLeft"),
+            secondary: None,
+        ),
+        (
+            action: Some(Use),
+            primary: Some("MouseRight"),
+            secondary: None,
+        ),
+        (
+            action: Some(Interact),
+            primary: Some("KeyE"),
+            secondary: None,
+        ),
+        (
+            action: Some(Inventory),
+            primary: Some("Tab"),
+            secondary: Some("KeyI"),
+        ),
+        (
+            action: Some(ToggleView),
+            primary: Some("F5"),
+            secondary: None,
+        ),
+        (
+            action: Some(Pause),
+            primary: Some("Escape"),
+            secondary: None,
+        ),
+        (
+            action: Some(Chat),
+            primary: Some("KeyT"),
+            secondary: Some("Enter"),
+        ),
+        (
+            action: Some(Command),
+            primary: Some("Slash"),
+            secondary: None,
+        ),
+        (
+            action: Some(Customize),
+            primary: Some("KeyC"),
+            secondary: None,
+        ),
+        (
+            action: Some(Drop),
+            primary: Some("KeyG"),
+            secondary: None,
+        ),
+    ],
+)

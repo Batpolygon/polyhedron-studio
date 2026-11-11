@@ -1,0 +1,281 @@
+(
+    name: "Giant Bones",
+    size: (15, 9, 11),
+    cells: [
+        (
+            pos: (0, 1, 4),
+            block: "bone",
+        ),
+        (
+            pos: (1, 1, 4),
+            block: "bone",
+        ),
+        (
+            pos: (2, 1, 4),
+            block: "bone",
+        ),
+        (
+            pos: (0, 1, 5),
+            block: "bone",
+        ),
+        (
+            pos: (1, 1, 5),
+            block: "bone",
+        ),
+        (
+            pos: (2, 1, 5),
+            block: "bone",
+        ),
+        (
+            pos: (0, 1, 6),
+            block: "bone",
+        ),
+        (
+            pos: (1, 1, 6),
+            block: "bone",
+        ),
+        (
+            pos: (2, 1, 6),
+            block: "bone",
+        ),
+        (
+            pos: (3, 2, 1),
+            block: "bone",
+        ),
+        (
+            pos: (5, 2, 1),
+            block: "bone",
+        ),
+        (
+            pos: (7, 2, 1),
+            block: "bone",
+        ),
+        (
+            pos: (9, 2, 1),
+            block: "bone",
+        ),
+        (
+            pos: (1, 2, 4),
+            block: "bone",
+        ),
+        (
+            pos: (2, 2, 4),
+            block: "bone",
+        ),
+        (
+            pos: (0, 2, 5),
+            block: "bone",
+        ),
+        (
+            pos: (1, 2, 5),
+            block: "bone",
+        ),
+        (
+            pos: (2, 2, 5),
+            block: "bone",
+        ),
+        (
+            pos: (12, 2, 5),
+            block: "bone",
+        ),
+        (
+            pos: (13, 2, 5),
+            block: "bone",
+        ),
+        (
+            pos: (1, 2, 6),
+            block: "bone",
+        ),
+        (
+            pos: (2, 2, 6),
+            block: "bone",
+        ),
+        (
+            pos: (3, 2, 9),
+            block: "bone",
+        ),
+        (
+            pos: (5, 2, 9),
+            block: "bone",
+        ),
+        (
+            pos: (7, 2, 9),
+            block: "bone",
+        ),
+        (
+            pos: (9, 2, 9),
+            block: "bone",
+        ),
+        (
+            pos: (0, 3, 4),
+            block: "bone",
+        ),
+        (
+            pos: (1, 3, 4),
+            block: "bone",
+        ),
+        (
+            pos: (2, 3, 4),
+            block: "bone",
+        ),
+        (
+            pos: (0, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (1, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (2, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (3, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (4, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (5, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (6, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (7, 3, 5),
+            block: "bone",
+        ),
+        (
+            pos: (0, 3, 6),
+            block: "bone",
+        ),
+        (
+            pos: (1, 3, 6),
+            block: "bone",
+        ),
+        (
+            pos: (2, 3, 6),
+            block: "bone",
+        ),
+        (
+            pos: (3, 4, 2),
+            block: "bone",
+        ),
+        (
+            pos: (5, 4, 2),
+            block: "bone",
+        ),
+        (
+            pos: (7, 4, 2),
+            block: "bone",
+        ),
+        (
+            pos: (9, 4, 2),
+            block: "bone",
+        ),
+        (
+            pos: (3, 4, 4),
+            block: "bone",
+        ),
+        (
+            pos: (5, 4, 4),
+            block: "bone",
+        ),
+        (
+            pos: (7, 4, 4),
+            block: "bone",
+        ),
+        (
+            pos: (9, 4, 4),
+            block: "bone",
+        ),
+        (
+            pos: (8, 4, 5),
+            block: "bone",
+        ),
+        (
+            pos: (9, 4, 5),
+            block: "bone",
+        ),
+        (
+            pos: (10, 4, 5),
+            block: "bone",
+        ),
+        (
+            pos: (11, 4, 5),
+            block: "bone",
+        ),
+        (
+            pos: (3, 4, 6),
+            block: "bone",
+        ),
+        (
+            pos: (5, 4, 6),
+            block: "bone",
+        ),
+        (
+            pos: (7, 4, 6),
+            block: "bone",
+        ),
+        (
+            pos: (9, 4, 6),
+            block: "bone",
+        ),
+        (
+            pos: (3, 4, 8),
+            block: "bone",
+        ),
+        (
+            pos: (5, 4, 8),
+            block: "bone",
+        ),
+        (
+            pos: (7, 4, 8),
+            block: "bone",
+        ),
+        (
+            pos: (9, 4, 8),
+            block: "bone",
+        ),
+        (
+            pos: (3, 5, 3),
+            block: "bone",
+        ),
+        (
+            pos: (5, 5, 3),
+            block: "bone",
+        ),
+        (
+            pos: (7, 5, 3),
+            block: "bone",
+        ),
+        (
+            pos: (9, 5, 3),
+            block: "bone",
+        ),
+        (
+            pos: (3, 5, 7),
+            block: "bone",
+        ),
+        (
+            pos: (5, 5, 7),
+            block: "bone",
+        ),
+        (
+            pos: (7, 5, 7),
+            block: "bone",
+        ),
+        (
+            pos: (9, 5, 7),
+            block: "bone",
+        ),
+    ],
+    anchors: [
+        (3, 0, 5),
+    ],
+)

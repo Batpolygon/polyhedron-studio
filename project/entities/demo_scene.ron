@@ -1,0 +1,5 @@
+(
+    name: "Demo Scene",
+    root: "Ground Plane",
+    objects: ["Voxel Cube", "Voxel Wedge", "Voxel Cylinder"],
+)

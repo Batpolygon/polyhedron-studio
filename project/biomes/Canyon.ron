@@ -1,0 +1,48 @@
+(
+    name: "Canyon",
+    temperature: 0.75,
+    humidity: -0.6,
+    base_height: 18.0,
+    height_scale: 6.0,
+    roughness: 0.4,
+    octaves: 4,
+    peaks: 0.18,
+    continentalness: 0.5,
+    surface_block: "red_sand",
+    subsurface_block: "red_sand",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: Canyon,
+    sky_color: (0.86, 0.66, 0.48),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Rock Pillar",
+            chance_per_chunk: 0.14,
+            attempts: 1,
+            max_slope: 4,
+            ground: [
+                "red_sand",
+            ],
+        ),
+        (
+            structure: "Mesa Arch",
+            chance_per_chunk: 0.05,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "red_sand",
+            ],
+        ),
+        (
+            structure: "Desert Ruin",
+            chance_per_chunk: 0.04,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "red_sand",
+            ],
+        ),
+    ],
+    beaches: true,
+)

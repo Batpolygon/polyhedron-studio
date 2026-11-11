@@ -1,0 +1,129 @@
+(
+    name: "Ember Stump",
+    size: (5, 4, 5),
+    cells: [
+        (
+            pos: (2, 0, 0),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 0, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 0, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 0, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (0, 0, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 0, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 0, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 0, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (4, 0, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 0, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 0, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 0, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 1, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 1, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 1, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 1, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 1, 2),
+            block: "lava",
+        ),
+        (
+            pos: (3, 1, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 1, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 1, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 1, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 2, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 2, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 2, 1),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 2, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 2, 2),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 2, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (2, 2, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (3, 2, 3),
+            block: "burnt_log",
+        ),
+        (
+            pos: (1, 3, 1),
+            block: "burnt_log",
+        ),
+    ],
+    anchors: [
+        (2, 0, 2),
+    ],
+)

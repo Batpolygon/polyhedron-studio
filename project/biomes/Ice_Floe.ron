@@ -1,0 +1,57 @@
+(
+    name: "Ice Floe",
+    temperature: -0.9,
+    humidity: -0.2,
+    base_height: 14.0,
+    height_scale: 8.0,
+    roughness: 0.45,
+    octaves: 4,
+    peaks: 0.6,
+    continentalness: 0.5,
+    surface_block: "snow",
+    subsurface_block: "ice",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: IceSpikes,
+    sky_color: (0.78, 0.86, 0.96),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Ice Spire",
+            chance_per_chunk: 0.22,
+            attempts: 1,
+            max_slope: 4,
+            ground: [
+                "snow",
+            ],
+        ),
+        (
+            structure: "Ice Shard",
+            chance_per_chunk: 0.4,
+            attempts: 2,
+            max_slope: 4,
+            ground: [
+                "snow",
+            ],
+        ),
+        (
+            structure: "Igloo",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "snow",
+            ],
+        ),
+        (
+            structure: "Frozen Wreck",
+            chance_per_chunk: 0.02,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "snow",
+            ],
+        ),
+    ],
+    beaches: true,
+)

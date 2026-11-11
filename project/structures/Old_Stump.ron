@@ -1,0 +1,129 @@
+(
+    name: "Old Stump",
+    size: (5, 4, 5),
+    cells: [
+        (
+            pos: (2, 0, 0),
+            block: "log",
+        ),
+        (
+            pos: (1, 0, 1),
+            block: "log",
+        ),
+        (
+            pos: (2, 0, 1),
+            block: "log",
+        ),
+        (
+            pos: (3, 0, 1),
+            block: "log",
+        ),
+        (
+            pos: (0, 0, 2),
+            block: "log",
+        ),
+        (
+            pos: (1, 0, 2),
+            block: "log",
+        ),
+        (
+            pos: (2, 0, 2),
+            block: "log",
+        ),
+        (
+            pos: (3, 0, 2),
+            block: "log",
+        ),
+        (
+            pos: (4, 0, 2),
+            block: "log",
+        ),
+        (
+            pos: (1, 0, 3),
+            block: "log",
+        ),
+        (
+            pos: (2, 0, 3),
+            block: "log",
+        ),
+        (
+            pos: (3, 0, 3),
+            block: "log",
+        ),
+        (
+            pos: (1, 1, 1),
+            block: "log",
+        ),
+        (
+            pos: (2, 1, 1),
+            block: "log",
+        ),
+        (
+            pos: (3, 1, 1),
+            block: "log",
+        ),
+        (
+            pos: (1, 1, 2),
+            block: "log",
+        ),
+        (
+            pos: (2, 1, 2),
+            block: "glow_moss",
+        ),
+        (
+            pos: (3, 1, 2),
+            block: "log",
+        ),
+        (
+            pos: (1, 1, 3),
+            block: "log",
+        ),
+        (
+            pos: (2, 1, 3),
+            block: "log",
+        ),
+        (
+            pos: (3, 1, 3),
+            block: "log",
+        ),
+        (
+            pos: (1, 2, 1),
+            block: "log",
+        ),
+        (
+            pos: (2, 2, 1),
+            block: "log",
+        ),
+        (
+            pos: (3, 2, 1),
+            block: "log",
+        ),
+        (
+            pos: (1, 2, 2),
+            block: "log",
+        ),
+        (
+            pos: (3, 2, 2),
+            block: "log",
+        ),
+        (
+            pos: (1, 2, 3),
+            block: "log",
+        ),
+        (
+            pos: (2, 2, 3),
+            block: "log",
+        ),
+        (
+            pos: (3, 2, 3),
+            block: "log",
+        ),
+        (
+            pos: (1, 3, 1),
+            block: "moss",
+        ),
+    ],
+    anchors: [
+        (2, 0, 2),
+    ],
+)

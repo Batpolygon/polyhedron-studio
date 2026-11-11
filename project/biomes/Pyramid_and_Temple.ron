@@ -1,0 +1,57 @@
+(
+    name: "Pyramid and Temple",
+    temperature: 0.7,
+    humidity: -0.95,
+    base_height: 9.0,
+    height_scale: 2.5,
+    roughness: 0.25,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "sand",
+    subsurface_block: "sand",
+    stone_block: "sandstone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.94, 0.78, 0.52),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Pyramid",
+            chance_per_chunk: 0.1,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Temple",
+            chance_per_chunk: 0.08,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Obelisk",
+            chance_per_chunk: 0.12,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Desert Ruin",
+            chance_per_chunk: 0.08,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "sand",
+            ],
+        ),
+    ],
+    beaches: true,
+)

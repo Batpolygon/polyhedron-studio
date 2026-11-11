@@ -1,0 +1,75 @@
+(
+    name: "Forest",
+    temperature: 0.3,
+    humidity: 0.45,
+    base_height: 11.0,
+    height_scale: 6.0,
+    roughness: 0.45,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "grass_dark",
+    subsurface_block: "dirt",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.44, 0.64, 0.82),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Oak Tree",
+            chance_per_chunk: 0.9,
+            attempts: 4,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+            variants: [
+                (
+                    structure: "Oak Tree",
+                    weight: 5.0,
+                ),
+                (
+                    structure: "Oak Tree Wide",
+                    weight: 2.0,
+                ),
+                (
+                    structure: "Oak Tree Tall",
+                    weight: 3.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Bush",
+            chance_per_chunk: 0.7,
+            attempts: 2,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Fallen Log",
+            chance_per_chunk: 0.2,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Old Stump",
+            chance_per_chunk: 0.2,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+    ],
+    beaches: true,
+)

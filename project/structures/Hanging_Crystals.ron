@@ -1,0 +1,287 @@
+(
+    name: "Hanging Crystals",
+    size: (11, 10, 11),
+    cells: [
+        (
+            pos: (10, 2, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (0, 3, 4),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (0, 3, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (9, 3, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 4, 2),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (1, 4, 4),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (0, 4, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (9, 4, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 4, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (7, 4, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 5, 2),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (1, 5, 4),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (1, 5, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (8, 5, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 5, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (7, 5, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 6, 3),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (2, 6, 4),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (2, 6, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 6, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (8, 6, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (7, 6, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 6, 7),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 6, 7),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 7, 2),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (4, 7, 3),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 7, 3),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 7, 3),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (2, 7, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 7, 4),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (1, 7, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (2, 7, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (3, 7, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 7, 5),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (7, 7, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (2, 7, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (7, 7, 6),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 7, 7),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (6, 7, 7),
+            block: "cave_crystal",
+        ),
+        (
+            pos: (5, 8, 2),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 8, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 8, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 8, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (3, 8, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 8, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (2, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (3, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (7, 8, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (3, 8, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 8, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (7, 8, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 8, 7),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 8, 7),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 9, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 9, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 9, 3),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 9, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 9, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 9, 4),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (3, 9, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 9, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 9, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 9, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (7, 9, 5),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (4, 9, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (5, 9, 6),
+            block: "crystal_ore",
+        ),
+        (
+            pos: (6, 9, 6),
+            block: "crystal_ore",
+        ),
+    ],
+    anchors: [],
+)

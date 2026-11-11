@@ -1,0 +1,688 @@
+(
+    version: 3,
+    resources: [
+        (
+            id: "floral",
+            label: "Floral",
+            color: (96, 200, 90),
+            tier: Raw,
+            description: "Plants, trees, fibres. Biomass, basic fuel of the Combustor, part of Synthetic.",
+        ),
+        (
+            id: "mineral",
+            label: "Mineral",
+            color: (150, 150, 160),
+            tier: Raw,
+            description: "Stone, ores, ice. Basic building, tools (Gun ammo), part of Synthetic.",
+        ),
+        (
+            id: "crystalline",
+            label: "Crystalline",
+            color: (110, 230, 240),
+            tier: Raw,
+            description: "Gems and pure crystals. Optics, resonators, part of Synthetic and energy infusions.",
+        ),
+        (
+            id: "faunal",
+            label: "Faunal",
+            color: (220, 120, 90),
+            tier: Raw,
+            description: "Harvested from entities. Organic and bio-mechanical infusions.",
+        ),
+        (
+            id: "ethereal",
+            label: "Ethereal",
+            color: (200, 150, 255),
+            tier: Raw,
+            description: "Harvested from entities. Soul anchor (respawn), mystic and technologic infusions.",
+        ),
+        (
+            id: "astral",
+            label: "Astral",
+            color: (255, 236, 150),
+            tier: Raw,
+            description: "Extremely rare (crater biome and entities). Ultimate cosmic material of the end game.",
+        ),
+        (
+            id: "mnemonical",
+            label: "Mnemonical",
+            color: (255, 70, 90),
+            tier: Raw,
+            description: "Ultra-rare catalyst that creates autonomous machine-entities.",
+        ),
+        (
+            id: "voltic",
+            label: "Voltic",
+            color: (90, 170, 255),
+            tier: Basic,
+            description: "Pure energy made by machines (Solaronel, Kineticster). Powers every machine.",
+        ),
+        (
+            id: "synthetic",
+            label: "Synthetic",
+            color: (120, 230, 200),
+            tier: Basic,
+            description: "Synthesizer: 1 Floral + 1 Mineral or 1 Floral + 1 Crystalline. Universal material of most blocks and recipes.",
+        ),
+        (
+            id: "technic",
+            label: "Technic",
+            color: (160, 170, 190),
+            tier: Basic,
+            description: "Assembler: Synthetic + Mineral + Crystalline. Mid-game machine parts, base of the technologic infusions.",
+        ),
+        (
+            id: "conflux",
+            label: "Conflux",
+            color: (255, 180, 90),
+            tier: Basic,
+            description: "Assembler: Floral + Mineral + Crystalline + Faunal + Ethereal. Main fuel of the Atomiser.",
+        ),
+        (
+            id: "garbage",
+            label: "Garbage",
+            color: (110, 96, 80),
+            tier: Basic,
+            description: "By-product of a failed infusion. Weak alternative fuel of the Atomiser.",
+        ),
+        (
+            id: "atomic",
+            label: "Atomic",
+            color: (240, 240, 255),
+            tier: Basic,
+            description: "Atomiser: Conflux (or Garbage) + 100 Voltic. Base of the Reconstructor and the Omnicore.",
+        ),
+        (
+            id: "celliom",
+            label: "Celliom",
+            color: (240, 120, 160),
+            tier: Overcharged,
+            description: "Infuser: Faunal + Synthetic. Regenerating bio-polymer, base of the living machines.",
+        ),
+        (
+            id: "aetech",
+            label: "Aetech",
+            color: (150, 120, 255),
+            tier: Overcharged,
+            description: "Infuser: Technic + Ethereal. Advanced technology for communication and complex machines.",
+        ),
+        (
+            id: "voltiom",
+            label: "Voltiom",
+            color: (60, 120, 255),
+            tier: Overcharged,
+            description: "Infuser: Voltic + Voltic. Condensed energy (1 Voltiom = 10 Voltic).",
+        ),
+        (
+            id: "refractal",
+            label: "Refractal",
+            color: (180, 250, 255),
+            tier: Overcharged,
+            description: "Infuser: Crystalline + Voltic. Catalyst to focus, spread and control energy.",
+        ),
+        (
+            id: "fluxiom",
+            label: "Fluxiom",
+            color: (255, 110, 220),
+            tier: Overcharged,
+            description: "Infuser: Voltic + Ethereal. Unstable mystic energy for the reality-bending technologies.",
+        ),
+        (
+            id: "refreatech",
+            label: "Refreatech",
+            color: (200, 220, 255),
+            tier: Overcharged,
+            description: "Infuser: Aetech + Refractal. Logic command core, brain of the end-game programming systems.",
+        ),
+        (
+            id: "omnicore",
+            label: "Omnicore",
+            color: (255, 255, 255),
+            tier: EndGame,
+            description: "Assembler: Refreatech + Conflux + Fluxiom. Unlocks the programming and world control commands.",
+        ),
+    ],
+    groups: [
+        (
+            id: "@floral",
+            label: "Floral",
+            members: [
+                "floral",
+                "grass",
+                "grass_dark",
+                "log",
+                "leaves",
+                "pine_leaves",
+                "palm_leaves",
+                "burnt_log",
+                "moss",
+                "glow_moss",
+                "mnemo_rot",
+            ],
+        ),
+        (
+            id: "@mineral",
+            label: "Mineral",
+            members: [
+                "mineral",
+                "stone",
+                "deepslate",
+                "basalt",
+                "sand",
+                "red_sand",
+                "dirt",
+                "mud",
+                "snow",
+                "ice",
+                "slab_stone",
+                "lava",
+                "alien_crust",
+                "mineral_ore",
+                "burnt_ground",
+                "sandstone",
+                "temple_brick",
+            ],
+        ),
+        (
+            id: "@crystalline",
+            label: "Crystalline",
+            members: [
+                "crystalline",
+                "crystal_ore",
+            ],
+        ),
+    ],
+    recipes: [
+        (
+            station: Synthesizer,
+            output: "synthetic",
+            count: 1,
+            inputs: [
+                ("@floral", 1),
+                ("@mineral", 1),
+            ],
+        ),
+        (
+            station: Synthesizer,
+            output: "synthetic",
+            count: 1,
+            inputs: [
+                ("@floral", 1),
+                ("@crystalline", 1),
+            ],
+        ),
+        (
+            station: Assembler,
+            output: "synthetic",
+            count: 1,
+            inputs: [
+                ("@floral", 1),
+                ("@mineral", 1),
+            ],
+        ),
+        (
+            station: Assembler,
+            output: "technic",
+            count: 1,
+            inputs: [
+                ("synthetic", 1),
+                ("@mineral", 1),
+                ("@crystalline", 1),
+            ],
+        ),
+        (
+            station: Assembler,
+            output: "conflux",
+            count: 1,
+            inputs: [
+                ("@floral", 1),
+                ("@mineral", 1),
+                ("@crystalline", 1),
+                ("faunal", 1),
+                ("ethereal", 1),
+            ],
+        ),
+        (
+            station: Assembler,
+            output: "omnicore",
+            count: 1,
+            inputs: [
+                ("refreatech", 1),
+                ("conflux", 1),
+                ("fluxiom", 1),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "celliom",
+            count: 1,
+            inputs: [
+                ("faunal", 1),
+                ("synthetic", 1),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "aetech",
+            count: 1,
+            inputs: [
+                ("technic", 1),
+                ("ethereal", 1),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "voltiom",
+            count: 1,
+            inputs: [
+                ("voltic", 5),
+                ("voltic", 5),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "refractal",
+            count: 1,
+            inputs: [
+                ("@crystalline", 1),
+                ("voltic", 1),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "fluxiom",
+            count: 1,
+            inputs: [
+                ("voltic", 1),
+                ("ethereal", 1),
+            ],
+        ),
+        (
+            station: Infuser,
+            output: "refreatech",
+            count: 1,
+            inputs: [
+                ("aetech", 1),
+                ("refractal", 1),
+            ],
+        ),
+        (
+            station: Atomiser,
+            output: "atomic",
+            count: 1,
+            inputs: [
+                ("conflux", 1),
+                ("voltic", 100),
+            ],
+        ),
+        (
+            station: Atomiser,
+            output: "atomic",
+            count: 1,
+            inputs: [
+                ("garbage", 8),
+                ("voltic", 100),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "synthesizer",
+            count: 1,
+            inputs: [
+                ("@mineral", 6),
+                ("@floral", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "stone_pickaxe",
+            count: 1,
+            inputs: [
+                ("@mineral", 3),
+                ("@floral", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "stone_axe",
+            count: 1,
+            inputs: [
+                ("@mineral", 3),
+                ("@floral", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "sword",
+            count: 1,
+            inputs: [
+                ("@mineral", 4),
+                ("@floral", 1),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "mineral_coat",
+            count: 1,
+            inputs: [
+                ("@mineral", 12),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "assembler",
+            count: 1,
+            inputs: [
+                ("synthetic", 8),
+                ("@mineral", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "combustor",
+            count: 1,
+            inputs: [
+                ("synthetic", 4),
+                ("@mineral", 6),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "solar",
+            count: 1,
+            inputs: [
+                ("synthetic", 4),
+                ("@crystalline", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "kineticster",
+            count: 1,
+            inputs: [
+                ("synthetic", 4),
+                ("@mineral", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "energizer",
+            count: 1,
+            inputs: [
+                ("technic", 2),
+                ("synthetic", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "infuser",
+            count: 1,
+            inputs: [
+                ("technic", 3),
+                ("@crystalline", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "container",
+            count: 1,
+            inputs: [
+                ("synthetic", 6),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "blaster",
+            count: 1,
+            inputs: [
+                ("technic", 2),
+                ("@mineral", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "binder",
+            count: 1,
+            inputs: [
+                ("technic", 1),
+                ("faunal", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "technic_armor",
+            count: 1,
+            inputs: [
+                ("technic", 8),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "atomiser",
+            count: 1,
+            inputs: [
+                ("technic", 4),
+                ("refractal", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "excavator",
+            count: 1,
+            inputs: [
+                ("technic", 4),
+                ("@mineral", 8),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "ethereaper",
+            count: 1,
+            inputs: [
+                ("aetech", 2),
+                ("celliom", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "etheraltar",
+            count: 1,
+            inputs: [
+                ("ethereal", 6),
+                ("technic", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "etherealink",
+            count: 1,
+            inputs: [
+                ("aetech", 1),
+                ("ethereal", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "etheragun",
+            count: 1,
+            inputs: [
+                ("aetech", 2),
+                ("ethereal", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "voltigun",
+            count: 1,
+            inputs: [
+                ("refractal", 2),
+                ("technic", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "blastygun",
+            count: 1,
+            inputs: [
+                ("conflux", 2),
+                ("technic", 3),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "atomixer",
+            count: 1,
+            inputs: [
+                ("atomic", 2),
+                ("technic", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "refreatech_armor",
+            count: 1,
+            inputs: [
+                ("refreatech", 4),
+                ("technic", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "reconstructor",
+            count: 1,
+            inputs: [
+                ("atomic", 4),
+                ("refreatech", 1),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "omnichorus",
+            count: 1,
+            inputs: [
+                ("refreatech", 2),
+                ("fluxiom", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "omnireactor",
+            count: 1,
+            inputs: [
+                ("refreatech", 2),
+                ("atomic", 2),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "invocateral",
+            count: 1,
+            inputs: [
+                ("fluxiom", 2),
+                ("ethereal", 10),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "astral_saber",
+            count: 1,
+            inputs: [
+                ("astral", 3),
+                ("refractal", 1),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "astral_revetment",
+            count: 1,
+            inputs: [
+                ("astral", 8),
+                ("technic", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "vacuum",
+            count: 1,
+            inputs: [
+                ("astral", 2),
+                ("technic", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "astral_modifier",
+            count: 1,
+            inputs: [
+                ("astral", 4),
+                ("refreatech", 1),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "astral_container",
+            count: 1,
+            inputs: [
+                ("astral", 4),
+                ("synthetic", 20),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "mnemo_symbiote",
+            count: 1,
+            inputs: [
+                ("mnemonical", 2),
+                ("celliom", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "mnemo_digestor",
+            count: 1,
+            inputs: [
+                ("mnemonical", 1),
+                ("celliom", 4),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "harvester",
+            count: 1,
+            inputs: [
+                ("mnemonical", 1),
+                ("celliom", 3),
+            ],
+        ),
+        (
+            station: Hand,
+            output: "mnemo_cloner",
+            count: 1,
+            inputs: [
+                ("mnemonical", 2),
+                ("celliom", 4),
+                ("aetech", 1),
+            ],
+        ),
+    ],
+    default_cost: [
+        ("synthetic", 1),
+    ],
+    conversions: [
+        (
+            from: "@floral",
+            to: "floral",
+            amount: 1,
+        ),
+        (
+            from: "@mineral",
+            to: "mineral",
+            amount: 1,
+        ),
+        (
+            from: "@crystalline",
+            to: "crystalline",
+            amount: 1,
+        ),
+    ],
+)

@@ -1,0 +1,7 @@
+-certain items n'ont pas dicon (blaster, remote control, et sword)
+-on ne voit pas la categorie inventory dans le monde creatif,que dans le mode creatif ajoute linventaire directement a droite dans un nouveau panel comme sa on peux dragndrop des item de linventaire creatif vers linventaire
+-les œufs de mob son rond au lieu detre cubique de plus leur icon ne correspond pas a litem dans la main du joueur
+-place les input output sur le centre des face des blocks sur le coter
+-quand jarrete le moteur sa doit aligner les block au monde comme quand on desactive le movable
+
+-Une regle primordial doit etre respecter c'est rien de hardcoder tout doit utiliser lengine au maximum (donc le player et ses animation ou encore les block ou items) refait ou adapte certain element harcoder qui peuvent utiliser lengine sinon souligner que tu ne peux pas utiliser lengine pour cette partie

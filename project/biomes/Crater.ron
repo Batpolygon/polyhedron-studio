@@ -1,0 +1,39 @@
+(
+    name: "Crater",
+    temperature: 0.6,
+    humidity: 0.3,
+    base_height: 12.0,
+    height_scale: 5.0,
+    roughness: 0.4,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "alien_crust",
+    subsurface_block: "basalt",
+    stone_block: "basalt",
+    subsurface_depth: 3,
+    feature: AlienCraters,
+    sky_color: (0.42000014, 0.26000002, 0.56),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Alien Pod",
+            chance_per_chunk: 0.28,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "alien_crust",
+            ],
+        ),
+        (
+            structure: "Alien Spire",
+            chance_per_chunk: 0.2,
+            attempts: 2,
+            max_slope: 3,
+            ground: [
+                "alien_crust",
+            ],
+        ),
+    ],
+    beaches: true,
+)

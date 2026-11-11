@@ -1,0 +1,51 @@
+(
+    name: "Swamp",
+    temperature: 0.65,
+    humidity: 0.85,
+    base_height: 6.0,
+    height_scale: 2.0,
+    roughness: 0.3,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "grass_dark",
+    subsurface_block: "mud",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: Lake,
+    sky_color: (0.42, 0.52, 0.46),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Swamp Tree",
+            chance_per_chunk: 0.7,
+            attempts: 2,
+            max_slope: 3,
+            ground: [
+                "grass_dark",
+                "mud",
+            ],
+        ),
+        (
+            structure: "Stilt Hut",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "grass_dark",
+                "mud",
+            ],
+        ),
+        (
+            structure: "Old Stump",
+            chance_per_chunk: 0.25,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass_dark",
+                "mud",
+            ],
+        ),
+    ],
+    beaches: true,
+)

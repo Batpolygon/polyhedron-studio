@@ -1,0 +1,95 @@
+(
+    name: "Plains",
+    temperature: 0.2,
+    humidity: 0.0,
+    base_height: 10.0,
+    height_scale: 4.0,
+    roughness: 0.35,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "grass",
+    subsurface_block: "dirt",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.5, 0.7, 0.9),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Oak Tree",
+            chance_per_chunk: 0.18,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+            variants: [
+                (
+                    structure: "Oak Tree",
+                    weight: 5.0,
+                ),
+                (
+                    structure: "Oak Tree Wide",
+                    weight: 2.0,
+                ),
+                (
+                    structure: "Oak Tree Tall",
+                    weight: 3.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Bush",
+            chance_per_chunk: 0.5,
+            attempts: 2,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Boulder",
+            chance_per_chunk: 0.08,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Standing Stones",
+            chance_per_chunk: 0.012,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Ruin",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Hut",
+            chance_per_chunk: 0.02,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+    ],
+    beaches: true,
+)

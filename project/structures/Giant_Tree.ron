@@ -1,0 +1,7074 @@
+(
+    name: "Giant Tree",
+    size: (16, 34, 16),
+    cells: [
+        (
+            pos: (6, 0, 1),
+            block: "log",
+        ),
+        (
+            pos: (12, 0, 3),
+            block: "log",
+        ),
+        (
+            pos: (13, 0, 3),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 5),
+            block: "log",
+        ),
+        (
+            pos: (1, 0, 6),
+            block: "log",
+        ),
+        (
+            pos: (6, 0, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 0, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (14, 0, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 0, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 0, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 0, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 0, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 0, 10),
+            block: "log",
+        ),
+        (
+            pos: (2, 0, 11),
+            block: "log",
+        ),
+        (
+            pos: (12, 0, 12),
+            block: "log",
+        ),
+        (
+            pos: (13, 0, 12),
+            block: "log",
+        ),
+        (
+            pos: (6, 0, 14),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 2),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 3),
+            block: "log",
+        ),
+        (
+            pos: (11, 1, 4),
+            block: "log",
+        ),
+        (
+            pos: (12, 1, 4),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 5),
+            block: "log",
+        ),
+        (
+            pos: (2, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (3, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 1, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (12, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (13, 1, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 1, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 1, 9),
+            block: "log",
+        ),
+        (
+            pos: (3, 1, 10),
+            block: "log",
+        ),
+        (
+            pos: (4, 1, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 1, 10),
+            block: "log",
+        ),
+        (
+            pos: (3, 1, 11),
+            block: "log",
+        ),
+        (
+            pos: (11, 1, 11),
+            block: "log",
+        ),
+        (
+            pos: (12, 1, 11),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 12),
+            block: "log",
+        ),
+        (
+            pos: (6, 1, 13),
+            block: "log",
+        ),
+        (
+            pos: (7, 1, 13),
+            block: "log",
+        ),
+        (
+            pos: (6, 2, 4),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 4),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 5),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 5),
+            block: "log",
+        ),
+        (
+            pos: (11, 2, 5),
+            block: "log",
+        ),
+        (
+            pos: (3, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (4, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (6, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 6),
+            block: "log",
+        ),
+        (
+            pos: (4, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (11, 2, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 8),
+            block: "log",
+        ),
+        (
+            pos: (5, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (6, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 9),
+            block: "log",
+        ),
+        (
+            pos: (4, 2, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 2, 10),
+            block: "log",
+        ),
+        (
+            pos: (10, 2, 10),
+            block: "log",
+        ),
+        (
+            pos: (11, 2, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 2, 11),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 3, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 3, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 3, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 3, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 3, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 3, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 3, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 3, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 4, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 4, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 4, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 4, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 4, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 4, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 4, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 4, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 5, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 5, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 5, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 5, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 5, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 5, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 5, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 5, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 6, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 6, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 6, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 6, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 6, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 6, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 6, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 6, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 7, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 7, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 7, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 7, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 7, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 7, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 7, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 7, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 8, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 8, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 8, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 8, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 8, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 8, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 8, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 8, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 9, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 9, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 9, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 9, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 9, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 9, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 9, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 9, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 10, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 10, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 10, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 10, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 10, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 10, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 10, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 10, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 11, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 11, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 11, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 11, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 11, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 11, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 11, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 11, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 12, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 12, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 12, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 12, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 12, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 12, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 12, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 12, 10),
+            block: "log",
+        ),
+        (
+            pos: (3, 12, 11),
+            block: "glow_moss",
+        ),
+        (
+            pos: (4, 12, 11),
+            block: "glow_moss",
+        ),
+        (
+            pos: (5, 12, 11),
+            block: "glow_moss",
+        ),
+        (
+            pos: (7, 13, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 13, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 13, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 13, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 13, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 13, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 13, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 13, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 13, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 13, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 13, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 14, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 14, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 14, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 14, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 14, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 14, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 14, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 14, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 15, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 15, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 15, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 15, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 15, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 15, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 15, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 15, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 16, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 16, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 16, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 16, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 16, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 16, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 16, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 16, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 5),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 5),
+            block: "log",
+        ),
+        (
+            pos: (6, 17, 6),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 17, 6),
+            block: "log",
+        ),
+        (
+            pos: (5, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (10, 17, 7),
+            block: "log",
+        ),
+        (
+            pos: (5, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 17, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 17, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 17, 9),
+            block: "log",
+        ),
+        (
+            pos: (7, 17, 10),
+            block: "log",
+        ),
+        (
+            pos: (8, 17, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 18, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 18, 6),
+            block: "log",
+        ),
+        (
+            pos: (6, 18, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 18, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 18, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 18, 7),
+            block: "log",
+        ),
+        (
+            pos: (6, 18, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 18, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 18, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 18, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 18, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 18, 9),
+            block: "log",
+        ),
+        (
+            pos: (6, 18, 10),
+            block: "log",
+        ),
+        (
+            pos: (7, 18, 10),
+            block: "log",
+        ),
+        (
+            pos: (5, 18, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 18, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 18, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 18, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 18, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 18, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 18, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 19, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 19, 6),
+            block: "log",
+        ),
+        (
+            pos: (2, 19, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 19, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 19, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 19, 7),
+            block: "log",
+        ),
+        (
+            pos: (0, 19, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 19, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 19, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 19, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 19, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 19, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 19, 8),
+            block: "log",
+        ),
+        (
+            pos: (1, 19, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 19, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 19, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 19, 9),
+            block: "log",
+        ),
+        (
+            pos: (5, 19, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 19, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 19, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 11),
+            block: "log",
+        ),
+        (
+            pos: (3, 19, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 19, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 12),
+            block: "log",
+        ),
+        (
+            pos: (7, 19, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 19, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 19, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 19, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 19, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 19, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 19, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 19, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 19, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 19, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 19, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 20, 6),
+            block: "log",
+        ),
+        (
+            pos: (0, 20, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 20, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 20, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 20, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 20, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 20, 7),
+            block: "log",
+        ),
+        (
+            pos: (0, 20, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 20, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (4, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (5, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (6, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 20, 8),
+            block: "log",
+        ),
+        (
+            pos: (0, 20, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 20, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 20, 9),
+            block: "log",
+        ),
+        (
+            pos: (0, 20, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 20, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (0, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 20, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 13),
+            block: "log",
+        ),
+        (
+            pos: (6, 20, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 20, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 20, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 20, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 20, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 20, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 20, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (0, 21, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 21, 6),
+            block: "log",
+        ),
+        (
+            pos: (0, 21, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 21, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 21, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 21, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 21, 7),
+            block: "log",
+        ),
+        (
+            pos: (0, 21, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 21, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 21, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 21, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 21, 8),
+            block: "log",
+        ),
+        (
+            pos: (0, 21, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 21, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 9),
+            block: "log",
+        ),
+        (
+            pos: (3, 21, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 21, 9),
+            block: "log",
+        ),
+        (
+            pos: (0, 21, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 21, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (0, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 21, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 21, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 21, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 21, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 21, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 21, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 21, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 22, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 22, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 22, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 22, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 22, 6),
+            block: "log",
+        ),
+        (
+            pos: (0, 22, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 22, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 22, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 22, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 22, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 22, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 22, 7),
+            block: "log",
+        ),
+        (
+            pos: (0, 22, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 22, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 22, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 22, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 22, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 22, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 22, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 22, 8),
+            block: "log",
+        ),
+        (
+            pos: (0, 22, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 22, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 22, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 22, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 22, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 22, 9),
+            block: "log",
+        ),
+        (
+            pos: (0, 22, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 22, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 22, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (0, 22, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 22, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 22, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 22, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 22, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 22, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 22, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 22, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 22, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 22, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 23, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 23, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 23, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 23, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 5),
+            block: "log",
+        ),
+        (
+            pos: (7, 23, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 23, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 23, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 23, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 23, 6),
+            block: "log",
+        ),
+        (
+            pos: (8, 23, 6),
+            block: "log",
+        ),
+        (
+            pos: (10, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 23, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 23, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 23, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 23, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 7),
+            block: "log",
+        ),
+        (
+            pos: (7, 23, 7),
+            block: "log",
+        ),
+        (
+            pos: (8, 23, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 23, 7),
+            block: "log",
+        ),
+        (
+            pos: (0, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 8),
+            block: "log",
+        ),
+        (
+            pos: (7, 23, 8),
+            block: "log",
+        ),
+        (
+            pos: (8, 23, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 23, 8),
+            block: "log",
+        ),
+        (
+            pos: (1, 23, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 23, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 23, 9),
+            block: "log",
+        ),
+        (
+            pos: (8, 23, 9),
+            block: "log",
+        ),
+        (
+            pos: (9, 23, 9),
+            block: "log",
+        ),
+        (
+            pos: (10, 23, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (0, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 23, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 23, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 23, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 23, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 23, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 23, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 23, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 23, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 23, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 23, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 23, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 23, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 23, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 3),
+            block: "log",
+        ),
+        (
+            pos: (6, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 4),
+            block: "log",
+        ),
+        (
+            pos: (7, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 5),
+            block: "log",
+        ),
+        (
+            pos: (7, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 5),
+            block: "log",
+        ),
+        (
+            pos: (9, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 6),
+            block: "log",
+        ),
+        (
+            pos: (9, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 7),
+            block: "log",
+        ),
+        (
+            pos: (9, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 24, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 8),
+            block: "log",
+        ),
+        (
+            pos: (9, 24, 8),
+            block: "log",
+        ),
+        (
+            pos: (10, 24, 8),
+            block: "log",
+        ),
+        (
+            pos: (11, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 24, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 24, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 10),
+            block: "log",
+        ),
+        (
+            pos: (11, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 11),
+            block: "log",
+        ),
+        (
+            pos: (12, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 24, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 24, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 24, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 24, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 24, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 24, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 24, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 2),
+            block: "log",
+        ),
+        (
+            pos: (6, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 3),
+            block: "log",
+        ),
+        (
+            pos: (6, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 3),
+            block: "log",
+        ),
+        (
+            pos: (10, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 4),
+            block: "log",
+        ),
+        (
+            pos: (9, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 25, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 8),
+            block: "log",
+        ),
+        (
+            pos: (12, 25, 8),
+            block: "log",
+        ),
+        (
+            pos: (13, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 25, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 25, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 25, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 11),
+            block: "log",
+        ),
+        (
+            pos: (12, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 12),
+            block: "log",
+        ),
+        (
+            pos: (13, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 25, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 25, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 2),
+            block: "log",
+        ),
+        (
+            pos: (10, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 3),
+            block: "log",
+        ),
+        (
+            pos: (10, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 8),
+            block: "log",
+        ),
+        (
+            pos: (13, 26, 8),
+            block: "log",
+        ),
+        (
+            pos: (14, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 9),
+            block: "log",
+        ),
+        (
+            pos: (14, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 26, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 26, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 26, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 26, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 26, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 26, 15),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 0),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 27, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 27, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 27, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (15, 27, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 27, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 27, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 27, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 27, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 27, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 28, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 28, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 28, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (1, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 28, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 28, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 28, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 28, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 28, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 28, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 28, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 28, 14),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 1),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 29, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 29, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (14, 29, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 29, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 29, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 29, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 29, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 29, 13),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 2),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 3),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 30, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 30, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 30, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (2, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (12, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (13, 30, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (3, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 30, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 30, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 30, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 30, 12),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 4),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 31, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 31, 5),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 31, 6),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 31, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 31, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (5, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (10, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 31, 9),
+            block: "leaves",
+        ),
+        (
+            pos: (4, 31, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (11, 31, 10),
+            block: "leaves",
+        ),
+        (
+            pos: (6, 31, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 31, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 31, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 31, 11),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 32, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 32, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 32, 7),
+            block: "leaves",
+        ),
+        (
+            pos: (7, 32, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (8, 32, 8),
+            block: "leaves",
+        ),
+        (
+            pos: (9, 32, 9),
+            block: "leaves",
+        ),
+    ],
+    anchors: [
+        (8, 0, 8),
+        (7, 0, 7),
+    ],
+)

@@ -1,0 +1,21 @@
+(
+    name: "Patrol",
+    description: "Moves the script avatar in a square and emits a checkpoint.",
+    blocks: [
+        Move(
+            distance: 2.0,
+        ),
+        Rotate(
+            degrees: 90.0,
+        ),
+        Move(
+            distance: 2.0,
+        ),
+        Rotate(
+            degrees: 90.0,
+        ),
+        Emit(
+            signal: "checkpoint",
+        ),
+    ],
+)

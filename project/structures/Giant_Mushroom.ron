@@ -1,0 +1,1275 @@
+(
+    name: "Giant Mushroom",
+    size: (15, 18, 15),
+    cells: [
+        (
+            pos: (7, 0, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (8, 0, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 0, 8),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 1, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (8, 1, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 1, 8),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 2, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (8, 2, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 2, 8),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 3, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (8, 3, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 3, 8),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 4, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (8, 4, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 4, 8),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 5, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 6, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 7, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (7, 8, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (2, 9, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 9, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 9, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 9, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (12, 9, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 9, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 9, 13),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 10, 1),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 10, 1),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (1, 10, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 10, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (12, 10, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 10, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 10, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 11, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (12, 11, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 11, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (12, 11, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 11, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 12, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 12, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 12, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 12, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 12, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 12, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 12, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 12, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 12, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 12, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 12, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 12, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 12, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (12, 12, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 12, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (12, 12, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 12, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 12, 7),
+            block: "mushroom_stem",
+        ),
+        (
+            pos: (12, 12, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (0, 12, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (12, 12, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 12, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (12, 12, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 12, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 12, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 12, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 12, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 12, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 12, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 12, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 12, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 12, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 12, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 12, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 12, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 13, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 13, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 13, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 13, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 13, 1),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 13, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 13, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 13, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 13, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 13, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 13, 2),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 13, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 13, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 13, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 13, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (11, 13, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (3, 13, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 13, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (2, 13, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 13, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 13, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (2, 13, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 13, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 13, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 13, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 13, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (2, 13, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 13, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (0, 13, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (2, 13, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (12, 13, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (3, 13, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 13, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 13, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 13, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 13, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 13, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 13, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (11, 13, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 13, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 13, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 13, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 13, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 13, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 13, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 13, 12),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 13, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 13, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 13, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 13, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 13, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 13, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 13, 13),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 14, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 14, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 14, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 14, 2),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 14, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 14, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 3),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 14, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 14, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 14, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 4),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 14, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 14, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 14, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (11, 14, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 14, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 14, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 14, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 14, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 14, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (3, 14, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 14, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 14, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 14, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 14, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 14, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (11, 14, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (1, 14, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (4, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (10, 14, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (11, 14, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 14, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 14, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 14, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 10),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 14, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 14, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 14, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 14, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 14, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 14, 11),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 14, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 14, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 14, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 14, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 14, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 14, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 14, 12),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 15, 3),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 15, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 15, 4),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 5),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 15, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 15, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 15, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 15, 6),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 15, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 15, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 15, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (2, 15, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 15, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (5, 15, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 15, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 15, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 15, 7),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (9, 15, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 15, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 15, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (6, 15, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 15, 8),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (8, 15, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 15, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (10, 15, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (3, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 9),
+            block: "mushroom_gill",
+        ),
+        (
+            pos: (7, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (9, 15, 9),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 15, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 15, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 15, 10),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 15, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 15, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 15, 11),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 16, 5),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 16, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 16, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 16, 6),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (4, 16, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 16, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 16, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 16, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (8, 16, 7),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (5, 16, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 16, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (7, 16, 8),
+            block: "mushroom_cap",
+        ),
+        (
+            pos: (6, 16, 9),
+            block: "mushroom_cap",
+        ),
+    ],
+    anchors: [],
+)

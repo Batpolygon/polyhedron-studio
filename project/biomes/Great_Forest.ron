@@ -1,0 +1,71 @@
+(
+    name: "Great Forest",
+    temperature: 0.45,
+    humidity: 0.8,
+    base_height: 13.0,
+    height_scale: 9.0,
+    roughness: 0.5,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "grass_dark",
+    subsurface_block: "dirt",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.38, 0.58, 0.74),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Giant Tree",
+            chance_per_chunk: 0.45,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+            variants: [
+                (
+                    structure: "Giant Tree",
+                    weight: 1.0,
+                ),
+                (
+                    structure: "Giant Tree Old",
+                    weight: 1.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Oak Tree Tall",
+            chance_per_chunk: 0.8,
+            attempts: 2,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Bush",
+            chance_per_chunk: 0.8,
+            attempts: 3,
+            max_slope: 3,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Fallen Log",
+            chance_per_chunk: 0.25,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+    ],
+    beaches: true,
+)

@@ -1,0 +1,76 @@
+(
+    name: "Desert",
+    temperature: 0.9,
+    humidity: -0.55,
+    base_height: 9.0,
+    height_scale: 3.0,
+    roughness: 0.3,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "sand",
+    subsurface_block: "sand",
+    stone_block: "sandstone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.92, 0.8, 0.58),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Cactus",
+            chance_per_chunk: 0.5,
+            attempts: 3,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+            variants: [
+                (
+                    structure: "Cactus",
+                    weight: 3.0,
+                ),
+                (
+                    structure: "Cactus Tall",
+                    weight: 1.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Sand Rock",
+            chance_per_chunk: 0.12,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Giant Bones",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Desert Camp",
+            chance_per_chunk: 0.02,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "sand",
+            ],
+        ),
+        (
+            structure: "Desert Ruin",
+            chance_per_chunk: 0.03,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "sand",
+            ],
+        ),
+    ],
+    beaches: true,
+)

@@ -1,0 +1,87 @@
+(
+    name: "Mob Brain",
+    enabled: true,
+    description: "Patrols home, chases the player inside 12 m, attacks in reach and flees below 3 HP.",
+    on_start: [
+        PlayAction(
+            action: "Idle",
+            blend: 0.2,
+        ),
+    ],
+    on_tick: [
+        Sense(
+            name: "dist",
+            sensor: DistanceToPlayer,
+        ),
+        Sense(
+            name: "hp",
+            sensor: Health,
+        ),
+        If(
+            variable: "hp",
+            op: Lt,
+            value: 3.0,
+            then_body: [
+                MoveToward(
+                    target: AwayFromPlayer,
+                    speed: 4.5,
+                ),
+            ],
+            else_body: [
+                If(
+                    variable: "dist",
+                    op: Lt,
+                    value: 12.0,
+                    then_body: [
+                        MoveToward(
+                            target: Player,
+                            speed: 3.2,
+                        ),
+                        If(
+                            variable: "dist",
+                            op: Lt,
+                            value: 1.9,
+                            then_body: [
+                                PlayAction(
+                                    action: "Attack",
+                                    blend: 0.08,
+                                ),
+                                Attack(
+                                    damage: 1.0,
+                                    range: 2.0,
+                                ),
+                                Wait(
+                                    seconds: 0.9,
+                                ),
+                            ],
+                            else_body: [],
+                        ),
+                    ],
+                    else_body: [
+                        MoveToward(
+                            target: Home,
+                            speed: 1.5,
+                        ),
+                    ],
+                ),
+            ],
+        ),
+    ],
+    on_interact: [],
+    on_hit: [
+        SpawnParticle(
+            kind: "hit",
+            count: 10,
+        ),
+        PlaySound(
+            sound: "impact",
+        ),
+        ApplyImpulse(
+            impulse: (0.0, 3.0, 0.0),
+        ),
+    ],
+    on_signal: [],
+    signal_port: "",
+    on_energy: [],
+    bound: true,
+)

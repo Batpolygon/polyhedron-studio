@@ -1,0 +1,66 @@
+(
+    name: "Mountain",
+    temperature: -0.1,
+    humidity: -0.2,
+    base_height: 30.0,
+    height_scale: 24.0,
+    roughness: 0.62,
+    octaves: 4,
+    peaks: 1.0,
+    continentalness: 0.5,
+    surface_block: "grass_dark",
+    subsurface_block: "dirt",
+    stone_block: "stone",
+    subsurface_depth: 3,
+    feature: r#None,
+    sky_color: (0.56, 0.68, 0.86),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Pine Tree",
+            chance_per_chunk: 0.7,
+            attempts: 3,
+            max_slope: 5,
+            ground: [
+                "grass",
+                "grass_dark",
+            ],
+        ),
+        (
+            structure: "Rock Heap",
+            chance_per_chunk: 0.25,
+            attempts: 1,
+            max_slope: 6,
+            ground: [
+                "stone",
+            ],
+        ),
+        (
+            structure: "Crystal Spire",
+            chance_per_chunk: 0.05,
+            attempts: 1,
+            max_slope: 5,
+            ground: [
+                "stone",
+            ],
+        ),
+        (
+            structure: "Watchtower",
+            chance_per_chunk: 0.015,
+            attempts: 1,
+            max_slope: 3,
+            ground: [],
+        ),
+        (
+            structure: "Mountain Shrine",
+            chance_per_chunk: 0.012,
+            attempts: 1,
+            max_slope: 3,
+            ground: [
+                "stone",
+                "snow",
+            ],
+        ),
+    ],
+    beaches: true,
+)

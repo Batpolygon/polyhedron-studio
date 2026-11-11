@@ -1,0 +1,33 @@
+# Build output (24 Go, régénéré par cargo)
+/target/
+
+# Exécutable copié à la racine (à publier dans une Release GitHub, pas dans le repo)
+/*.exe
+
+# Sauvegardes manuelles locales (l'historique git les remplace)
+/_sauvegarde_*/
+
+# Logs et marqueurs de check.bat / test.bat
+/_check.log
+/_check.done
+/_test.log
+/_test.done
+
+# Fichiers de sauvegarde d'édition
+*.bak
+
+# Mondes sauvegardés en jeu (lourds, propres à chaque joueur)
+# demo_world.ron reste versionné
+/project/worlds/*
+!/project/worlds/demo_world.ron
+
+# Python
+__pycache__/
+*.pyc
+
+# Système / éditeurs
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

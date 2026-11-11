@@ -1,0 +1,17 @@
+(
+    format_version: 1,
+    name: "Polyhedron Sample",
+    description: "A procedural voxel project authored with Polyhedron Studio.",
+    engine_version: "0.1.0",
+    entry_scene: "entities/demo_scene.ron",
+    modules: [
+        "blocks",
+        "entities",
+        "actions",
+        "scripts",
+        "biomes",
+        "structures",
+        "ui",
+        "shaders",
+    ],
+)

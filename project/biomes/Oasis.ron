@@ -1,0 +1,49 @@
+(
+    name: "Oasis",
+    temperature: 0.95,
+    humidity: -0.2,
+    base_height: 7.0,
+    height_scale: 2.0,
+    roughness: 0.3,
+    octaves: 4,
+    peaks: 0.0,
+    continentalness: 0.5,
+    surface_block: "sand",
+    subsurface_block: "sand",
+    stone_block: "sandstone",
+    subsurface_depth: 3,
+    feature: Lake,
+    sky_color: (0.7, 0.82, 0.86),
+    fog_density: 0.015,
+    structures: [
+        (
+            structure: "Palm Tree",
+            chance_per_chunk: 0.9,
+            attempts: 3,
+            max_slope: 3,
+            ground: [
+                "sand",
+            ],
+            variants: [
+                (
+                    structure: "Palm Tree",
+                    weight: 2.0,
+                ),
+                (
+                    structure: "Palm Tree Leaning",
+                    weight: 1.0,
+                ),
+            ],
+        ),
+        (
+            structure: "Desert Camp",
+            chance_per_chunk: 0.1,
+            attempts: 1,
+            max_slope: 2,
+            ground: [
+                "sand",
+            ],
+        ),
+    ],
+    beaches: true,
+)
